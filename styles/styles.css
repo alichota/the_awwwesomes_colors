@@ -1,0 +1,21 @@
+body {
+    background: #f6c0d9;
+}
+
+p{
+  font-size:20px;
+}
+
+h1 {
+    text-align: center;
+    color: #ffffff;
+}
+
+a {
+    color: #e0697c;
+    font-weight: bold;
+}
+
+img {
+    margin: 30px 0px;
+}
